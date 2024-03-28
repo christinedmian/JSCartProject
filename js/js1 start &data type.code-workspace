@@ -1,0 +1,67 @@
+{
+	"folders": [
+		{
+			"name": "js1 start &data type",
+			"path": "../../js1 start &data type"
+		},
+		{
+			"name": "js2  DataType,ifCondition,Operators",
+			"path": "../../js2  DataType,ifCondition,Operators"
+		},
+		{
+			"name": "js3 switchCase,event,forLoop",
+			"path": "../../js3 switchCase,event,forLoop"
+		},
+		{
+			"name": "js4 smallProject",
+			"path": "../../js4 smallProject"
+		},
+		{
+			"name": "js5Ajax",
+			"path": "../../js5Ajax"
+		},
+		{
+			"name": "js6var-let -const-JSON",
+			"path": "../../js6var-let -const-JSON"
+		},
+		{
+			"name": "js7arrow function-Method",
+			"path": "../../js7arrow function-Method"
+		},
+		{
+			"name": "js8string-array Method",
+			"path": "../../js8string-array Method"
+		},
+		{
+			"name": "js9Domtraversing",
+			"path": "../../js9Domtraversing"
+		},
+		{
+			"name": "js10DomBom",
+			"path": "../../js10DomBom"
+		},
+		{
+			"name": "js11 Project",
+			"path": "../../js11 Project"
+		},
+		{
+			"name": "js12 Array Methods",
+			"path": "../../js12 Array Methods"
+		},
+		{
+			"name": "js13 DefaultParameters,spreadOperator...,Destructions,this",
+			"path": "../../js13 DefaultParameters,spreadOperator...,Destructions,this"
+		},
+		{
+			"name": "js14 Error,strict,this",
+			"path": "../../js14 Error,strict,this"
+		},
+		{
+			"name": "js15 FinalProject",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "js15 FinalProject"
+	}
+}
